@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"nama":"Sibel","alamat":"Springs","telepon":"9931897233","email":"sfebre0@samsung.com","jeniskelamin":"Female","kodepos":null},
+{"id":2,"nama":"Abby","alamat":"Mifflin","telepon":"1317323856","email":"arafferty1@dailymotion.com","jeniskelamin":"Male","kodepos":"613380"},
+{"id":3,"nama":"Ethyl","alamat":"Namekagon","telepon":"1748704297","email":"ewyllcock2@addthis.com","jeniskelamin":"Female","kodepos":null},
+{"id":4,"nama":"Nessie","alamat":"Merry","telepon":"5155366777","email":"nouthwaite3@topsy.com","jeniskelamin":"Female","kodepos":"702 21"},
+{"id":5,"nama":"Norrie","alamat":"Merry","telepon":"5347035529","email":"nlancett4@angelfire.com","jeniskelamin":"Female","kodepos":null},
+{"id":6,"nama":"Leanna","alamat":"Beilfuss","telepon":"6108803360","email":"lpignon5@studiopress.com","jeniskelamin":"Female","kodepos":"18105"},
+{"id":7,"nama":"Maggi","alamat":"Birchwood","telepon":"5698789426","email":"mtirone6@miitbeian.gov.cn","jeniskelamin":"Female","kodepos":"7024"},
+{"id":8,"nama":"Serge","alamat":"Northridge","telepon":"5298021541","email":"skennifick7@indiegogo.com","jeniskelamin":"Male","kodepos":"3313"},
+{"id":9,"nama":"Phyllida","alamat":"American","telepon":"4359906287","email":"pmuehler8@nationalgeographic.com","jeniskelamin":"Female","kodepos":null},
+{"id":10,"nama":"Corenda","alamat":"Anthes","telepon":"7809325359","email":"choppner9@cnn.com","jeniskelamin":"Female","kodepos":null},
+{"id":11,"nama":"Roddie","alamat":"Talmadge","telepon":"6608350360","email":"rcurroma@php.net","jeniskelamin":"Male","kodepos":null},
+{"id":12,"nama":"Wyatt","alamat":"Di Loreto","telepon":"4328105883","email":"wgaveyb@earthlink.net","jeniskelamin":"Male","kodepos":null},
+{"id":13,"nama":"Cathy","alamat":"Leroy","telepon":"9031069464","email":"carchiboldc@elpais.com","jeniskelamin":"Female","kodepos":"35059 CEDEX"},
+{"id":14,"nama":"Arlette","alamat":"Twin Pines","telepon":"1244851474","email":"aguthersond@ihg.com","jeniskelamin":"Female","kodepos":"8711"},
+{"id":15,"nama":"Kipp","alamat":"7th","telepon":"9609998251","email":"kvasilenkoe@bloglovin.com","jeniskelamin":"Male","kodepos":"14140-000"},
+{"id":16,"nama":"Gregorio","alamat":"Killdeer","telepon":"2385147723","email":"graffanf@noaa.gov","jeniskelamin":"Male","kodepos":null},
+{"id":17,"nama":"Jamaal","alamat":"David","telepon":"9299623966","email":"jassong@samsung.com","jeniskelamin":"Male","kodepos":null},
+{"id":18,"nama":"Filip","alamat":"Schlimgen","telepon":"6715294055","email":"fguerreiroh@livejournal.com","jeniskelamin":"Male","kodepos":null},
+{"id":19,"nama":"Deane","alamat":"Red Cloud","telepon":"4399270586","email":"dsteptoi@theguardian.com","jeniskelamin":"Female","kodepos":null},
+{"id":20,"nama":"Minny","alamat":"Muir","telepon":"7377739500","email":"mheggsj@stanford.edu","jeniskelamin":"Female","kodepos":null}
+]
+}
